@@ -3,6 +3,9 @@
 <img src=".github/assets/banner.svg" alt="DD Bypass Bot" width="100%" />
 
 <p>
+	<a href="https://telegram.dog/DD_Bypass_Bot">
+		<img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+	</a>
 	<a href="https://github.com/murdock-dev/DD-Bypass-Bot/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/murdock-dev/DD-Bypass-Bot?style=for-the-badge&logo=github"/></a>
 	<img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
 	<img alt="Docker" src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
@@ -115,6 +118,6 @@ This project is intended for educational and personal-use automation. You are re
 
 ## Quick links
 
-- ▶️ Bot: `@DD_Bypass_Bot`
-- 📣 Updates: `@DD_Bypass_Updates`
+- ▶️ Bot: https://telegram.dog/DD_Bypass_Bot
+- 📣 Updates: https://telegram.dog/DD_Botz
 - 🐞 Issues: https://github.com/murdock-dev/DD-Bypass-Bot/issues
