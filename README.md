@@ -118,6 +118,6 @@ This project is intended for educational and personal-use automation. You are re
 
 ## Quick links
 
-- ▶️ Bot: https://telegram.dog/DD_Bypass_Bot
+- 👉 Try it here: https://telegram.dog/DD_Bypass_Bot
 - 📣 Updates: https://telegram.dog/DD_Botz
 - 🐞 Issues: https://github.com/murdock-dev/DD-Bypass-Bot/issues
